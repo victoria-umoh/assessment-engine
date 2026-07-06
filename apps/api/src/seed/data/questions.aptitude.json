@@ -1,0 +1,528 @@
+[
+  {
+    "seedId": "aptitude-001",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the next number in the series: 8, 12, 16, 20, ... ?",
+    "options": [
+      "30",
+      "18",
+      "32",
+      "24"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 4, so the next term is 20 + 4 = 24.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-002",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the next number in the series: 8, 13, 18, 23, ... ?",
+    "options": [
+      "25",
+      "28",
+      "29",
+      "26"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Each term increases by 5, so the next term is 23 + 5 = 28.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-003",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is the next number in the series: 13, 18, 23, 28, ... ?",
+    "options": [
+      "33",
+      "31",
+      "27",
+      "40"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Each term increases by 5, so the next term is 28 + 5 = 33.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-004",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is the next number in the series: 14, 17, 20, 23, ... ?",
+    "options": [
+      "32",
+      "26",
+      "28",
+      "27"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Each term increases by 3, so the next term is 23 + 3 = 26.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-005",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is the next number in the series: 10, 14, 18, 22, ... ?",
+    "options": [
+      "31",
+      "24",
+      "32",
+      "26"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 4, so the next term is 22 + 4 = 26.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-006",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the next number in the series: 11, 13, 15, 17, ... ?",
+    "options": [
+      "23",
+      "13",
+      "19",
+      "20"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each term increases by 2, so the next term is 17 + 2 = 19.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-007",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the next number in the series: 9, 13, 17, 21, ... ?",
+    "options": [
+      "32",
+      "17",
+      "21",
+      "25"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 4, so the next term is 21 + 4 = 25.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "aptitude-008",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is 15% of 360?",
+    "options": [
+      "48",
+      "54",
+      "51",
+      "63"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "15% of 360 = 360 × 15/100 = 54.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-009",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is 5% of 600?",
+    "options": [
+      "30",
+      "36",
+      "25",
+      "29"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "5% of 600 = 600 × 5/100 = 30.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-010",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is 15% of 160?",
+    "options": [
+      "18",
+      "24",
+      "29",
+      "22"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "15% of 160 = 160 × 15/100 = 24.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-011",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is 50% of 140?",
+    "options": [
+      "70",
+      "63",
+      "84",
+      "85"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "50% of 140 = 140 × 50/100 = 70.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-012",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is 10% of 600?",
+    "options": [
+      "72",
+      "64",
+      "60",
+      "71"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "10% of 600 = 600 × 10/100 = 60.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-013",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is 20% of 240?",
+    "options": [
+      "38",
+      "60",
+      "48",
+      "56"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "20% of 240 = 240 × 20/100 = 48.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-014",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is 5% of 520?",
+    "options": [
+      "18",
+      "26",
+      "31",
+      "34"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "5% of 520 = 520 × 5/100 = 26.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "aptitude-015",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Ada is faster than Emeka. Emeka is faster than Gina. Who is the fastest?",
+    "options": [
+      "Ada",
+      "Gina",
+      "Cannot be determined",
+      "Emeka"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Chaining the comparisons: Ada > Emeka > Gina, so Ada is the fastest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-016",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Chidi is taller than Dara. Dara is taller than Femi. Who is the tallest?",
+    "options": [
+      "Dara",
+      "Cannot be determined",
+      "Chidi",
+      "Femi"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Chaining the comparisons: Chidi > Dara > Femi, so Chidi is the tallest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-017",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Halima is faster than Ivan. Ivan is faster than Dara. Who is the slowest?",
+    "options": [
+      "Cannot be determined",
+      "Dara",
+      "Ivan",
+      "Halima"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Halima > Ivan > Dara, so Dara is the slowest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-018",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Halima is older than Jomo. Jomo is older than Ada. Who is the youngest?",
+    "options": [
+      "Jomo",
+      "Halima",
+      "Cannot be determined",
+      "Ada"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Chaining the comparisons: Halima > Jomo > Ada, so Ada is the youngest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-019",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Ada is taller than Emeka. Emeka is taller than Jomo. Who is the shortest?",
+    "options": [
+      "Ada",
+      "Cannot be determined",
+      "Emeka",
+      "Jomo"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Chaining the comparisons: Ada > Emeka > Jomo, so Jomo is the shortest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-020",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Emeka is faster than Ivan. Ivan is faster than Gina. Who is the slowest?",
+    "options": [
+      "Cannot be determined",
+      "Emeka",
+      "Gina",
+      "Ivan"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Chaining the comparisons: Emeka > Ivan > Gina, so Gina is the slowest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "aptitude-021",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 3 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "10",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "x doubles 3 times: 2^3 = 8.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "aptitude-022",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 8 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "325",
+      "248",
+      "256",
+      "273"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x doubles 8 times: 2^8 = 256.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "aptitude-023",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 7 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "156",
+      "139",
+      "122",
+      "128"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "x doubles 7 times: 2^7 = 128.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "aptitude-024",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 3 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "5"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x doubles 3 times: 2^3 = 8.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "aptitude-025",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 6 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "73",
+      "55",
+      "49",
+      "64"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "x doubles 6 times: 2^6 = 64.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "aptitude-026",
+    "categoryKey": "aptitude",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 8 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "256",
+      "229",
+      "301",
+      "235"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x doubles 8 times: 2^8 = 256.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  }
+]

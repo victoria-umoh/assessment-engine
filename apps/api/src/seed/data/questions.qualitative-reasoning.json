@@ -1,0 +1,531 @@
+[
+  {
+    "seedId": "qualitative-reasoning-001",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which is denser: iron or cork?",
+    "options": [
+      "It cannot be known",
+      "They are the same",
+      "Iron",
+      "Cork"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Iron is denser than cork.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-002",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which is longer: a marathon or a sprint?",
+    "options": [
+      "A sprint",
+      "It cannot be known",
+      "They are the same",
+      "A marathon"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A marathon is longer than a sprint.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-003",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which is hotter: boiling water or ice water?",
+    "options": [
+      "It cannot be known",
+      "Ice water",
+      "Boiling water",
+      "They are the same"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Boiling water is hotter than ice water.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-004",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which is heavier: an elephant or a mouse?",
+    "options": [
+      "A mouse",
+      "It cannot be known",
+      "They are the same",
+      "An elephant"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "An elephant is heavier than a mouse.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-005",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which is quieter: a whisper or a shout?",
+    "options": [
+      "It cannot be known",
+      "A shout",
+      "They are the same",
+      "A whisper"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A whisper is quieter than a shout.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-006",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which is darker: midnight or noon?",
+    "options": [
+      "It cannot be known",
+      "Noon",
+      "They are the same",
+      "Midnight"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Midnight is darker than noon.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-007",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which is taller: a mountain or a hill?",
+    "options": [
+      "They are the same",
+      "A hill",
+      "It cannot be known",
+      "A mountain"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A mountain is taller than a hill.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-008",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which is drier: a desert or a rainforest?",
+    "options": [
+      "A rainforest",
+      "They are the same",
+      "It cannot be known",
+      "A desert"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "A desert is drier than a rainforest.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-009",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which is slower: a snail or a cheetah?",
+    "options": [
+      "It cannot be known",
+      "A snail",
+      "They are the same",
+      "A cheetah"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "A snail is slower than a cheetah.",
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-010",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If it rains, then the ground gets wet. Today, it rains. What follows?",
+    "options": [
+      "The ground gets wet",
+      "Nothing follows",
+      "It is not the case that the ground gets wet",
+      "It is not the case that it rains"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-011",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If the alarm rings, then everyone leaves the building. Today, the alarm rings. What follows?",
+    "options": [
+      "It is not the case that everyone leaves the building",
+      "Nothing follows",
+      "It is not the case that the alarm rings",
+      "Everyone leaves the building"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-012",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If the switch is on, then the lamp is lit. Today, the switch is on. What follows?",
+    "options": [
+      "It is not the case that the lamp is lit",
+      "Nothing follows",
+      "It is not the case that the switch is on",
+      "The lamp is lit"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-013",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If the store is open, then the sign says OPEN. Today, the store is open. What follows?",
+    "options": [
+      "It is not the case that the store is open",
+      "The sign says OPEN",
+      "Nothing follows",
+      "It is not the case that the sign says OPEN"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-014",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "If the battery is charged, then the phone turns on. Today, the battery is charged. What follows?",
+    "options": [
+      "It is not the case that the battery is charged",
+      "Nothing follows",
+      "The phone turns on",
+      "It is not the case that the phone turns on"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-015",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If the bridge is closed, then traffic is diverted. Today, the bridge is closed. What follows?",
+    "options": [
+      "It is not the case that traffic is diverted",
+      "It is not the case that the bridge is closed",
+      "Nothing follows",
+      "Traffic is diverted"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-016",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If it rains, then the ground gets wet. Today, it rains. What follows?",
+    "options": [
+      "Nothing follows",
+      "It is not the case that the ground gets wet",
+      "It is not the case that it rains",
+      "The ground gets wet"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-017",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If the alarm rings, then everyone leaves the building. Today, the alarm rings. What follows?",
+    "options": [
+      "It is not the case that the alarm rings",
+      "Nothing follows",
+      "It is not the case that everyone leaves the building",
+      "Everyone leaves the building"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-018",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If the switch is on, then the lamp is lit. Today, the switch is on. What follows?",
+    "options": [
+      "The lamp is lit",
+      "It is not the case that the lamp is lit",
+      "Nothing follows",
+      "It is not the case that the switch is on"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Modus ponens: the condition holds, so the consequence follows.",
+    "tags": [
+      "causation",
+      "conditional"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-019",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Squares are a kind of rectangles. Which claim is correct?",
+    "options": [
+      "Squares and rectangles never overlap",
+      "No square is a rectangle",
+      "Every square is a rectangle",
+      "Every rectangle is a square"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Squares form a subset of rectangles, so \"Every square is a rectangle\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-020",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Sparrows are a kind of birds. Which claim is correct?",
+    "options": [
+      "Every sparrow is a bird",
+      "Some sparrows are not birds",
+      "No sparrow is a bird",
+      "Every bird is a sparrow"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Sparrows form a subset of birds, so \"Every sparrow is a bird\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-021",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Triangles are a kind of polygons. Which claim is correct?",
+    "options": [
+      "Every polygon is a triangle",
+      "No triangle is a polygon",
+      "Every triangle is a polygon",
+      "Some triangles are not polygons"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Triangles form a subset of polygons, so \"Every triangle is a polygon\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-022",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Oaks are a kind of trees. Which claim is correct?",
+    "options": [
+      "Some oaks are not trees",
+      "No oak is a tree",
+      "Every oak is a tree",
+      "Every tree is an oak"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Oaks form a subset of trees, so \"Every oak is a tree\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-023",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Salmon are a kind of fish. Which claim is correct?",
+    "options": [
+      "Every fish is a salmon",
+      "Every salmon is a fish",
+      "No salmon is a fish",
+      "Some salmon are not fish"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Salmon form a subset of fish, so \"Every salmon is a fish\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-024",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Novels are a kind of books. Which claim is correct?",
+    "options": [
+      "Some novels are not books",
+      "Every novel is a book",
+      "No novel is a book",
+      "Every book is a novel"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Novels form a subset of books, so \"Every novel is a book\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-025",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Spoons are a kind of utensils. Which claim is correct?",
+    "options": [
+      "Every spoon is a utensil",
+      "No spoon is a utensil",
+      "Some spoons are not utensils",
+      "Every utensil is a spoon"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Spoons form a subset of utensils, so \"Every spoon is a utensil\" holds.",
+    "tags": [
+      "categories"
+    ]
+  },
+  {
+    "seedId": "qualitative-reasoning-026",
+    "categoryKey": "qualitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Roses are a kind of flowers. Which claim is correct?",
+    "options": [
+      "Every flower is a rose",
+      "Every rose is a flower",
+      "No rose is a flower",
+      "Some roses are not flowers"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Roses form a subset of flowers, so \"Every rose is a flower\" holds.",
+    "tags": [
+      "categories"
+    ]
+  }
+]

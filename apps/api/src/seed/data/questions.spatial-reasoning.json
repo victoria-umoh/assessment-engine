@@ -1,0 +1,548 @@
+[
+  {
+    "seedId": "spatial-reasoning-001",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "You are facing North. You turn 90° clockwise 7 times. Which direction are you facing now?",
+    "options": [
+      "East",
+      "South",
+      "North",
+      "West"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "7 quarter-turns clockwise is 3 net turn(s) from North → West.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-002",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "You are facing North. You turn 90° clockwise 6 times. Which direction are you facing now?",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "North"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "6 quarter-turns clockwise is 2 net turn(s) from North → South.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-003",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "You are facing North. You turn 90° clockwise 6 times. Which direction are you facing now?",
+    "options": [
+      "North",
+      "East",
+      "South",
+      "West"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "6 quarter-turns clockwise is 2 net turn(s) from North → South.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-004",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "You are facing North. You turn 90° clockwise 1 time. Which direction are you facing now?",
+    "options": [
+      "West",
+      "East",
+      "North",
+      "South"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "1 quarter-turns clockwise is 1 net turn(s) from North → East.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-005",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "You are facing North. You turn 90° clockwise 6 times. Which direction are you facing now?",
+    "options": [
+      "West",
+      "North",
+      "East",
+      "South"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "6 quarter-turns clockwise is 2 net turn(s) from North → South.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-006",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "You are facing North. You turn 90° clockwise 5 times. Which direction are you facing now?",
+    "options": [
+      "North",
+      "East",
+      "South",
+      "West"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "5 quarter-turns clockwise is 1 net turn(s) from North → East.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-007",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "You are facing North. You turn 90° clockwise 7 times. Which direction are you facing now?",
+    "options": [
+      "East",
+      "South",
+      "North",
+      "West"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "7 quarter-turns clockwise is 3 net turn(s) from North → West.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-008",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "You are facing North. You turn 90° clockwise 6 times. Which direction are you facing now?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "6 quarter-turns clockwise is 2 net turn(s) from North → South.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-009",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "You are facing North. You turn 90° clockwise 2 times. Which direction are you facing now?",
+    "options": [
+      "West",
+      "East",
+      "North",
+      "South"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "2 quarter-turns clockwise is 2 net turn(s) from North → South.",
+    "tags": [
+      "rotation",
+      "compass"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-010",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 5, what does the bottom face show?",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 5 = 2.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-011",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 5, what does the bottom face show?",
+    "options": [
+      "6",
+      "5",
+      "2",
+      "4"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 5 = 2.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-012",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 6, what does the bottom face show?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "1"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 6 = 1.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-013",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 5, what does the bottom face show?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "6"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 5 = 2.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-014",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 3, what does the bottom face show?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "5"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 3 = 4.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-015",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 4, what does the bottom face show?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "1"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 4 = 3.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-016",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 1, what does the bottom face show?",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "4"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 1 = 6.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-017",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 6, what does the bottom face show?",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "6"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 6 = 1.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-018",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "On a standard die, opposite faces add up to 7. If the top face shows 6, what does the bottom face show?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "6"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Opposite faces sum to 7, so the bottom shows 7 − 6 = 1.",
+    "tags": [
+      "dice",
+      "visualization"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-019",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Starting at (0, 0) on a grid, you move 5 squares right and 7 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(7, 5)",
+      "(6, 7)",
+      "(5, 8)",
+      "(5, 7)"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Moving right increases x to 5; moving up increases y to 7 → (5, 7).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-020",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Starting at (0, 0) on a grid, you move 9 squares right and 8 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(8, 9)",
+      "(9, 8)",
+      "(9, 9)",
+      "(10, 8)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Moving right increases x to 9; moving up increases y to 8 → (9, 8).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-021",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Starting at (0, 0) on a grid, you move 2 squares right and 7 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(2, 8)",
+      "(2, 7)",
+      "(7, 2)",
+      "(3, 7)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Moving right increases x to 2; moving up increases y to 7 → (2, 7).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-022",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Starting at (0, 0) on a grid, you move 5 squares right and 8 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(8, 5)",
+      "(5, 8)",
+      "(5, 9)",
+      "(6, 8)"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Moving right increases x to 5; moving up increases y to 8 → (5, 8).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-023",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Starting at (0, 0) on a grid, you move 7 squares right and 4 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(8, 4)",
+      "(4, 7)",
+      "(7, 4)",
+      "(7, 5)"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Moving right increases x to 7; moving up increases y to 4 → (7, 4).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-024",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Starting at (0, 0) on a grid, you move 8 squares right and 2 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(8, 2)",
+      "(8, 3)",
+      "(2, 8)",
+      "(9, 2)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Moving right increases x to 8; moving up increases y to 2 → (8, 2).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-025",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Starting at (0, 0) on a grid, you move 4 squares right and 6 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(6, 4)",
+      "(4, 7)",
+      "(5, 6)",
+      "(4, 6)"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Moving right increases x to 4; moving up increases y to 6 → (4, 6).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  },
+  {
+    "seedId": "spatial-reasoning-026",
+    "categoryKey": "spatial-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Starting at (0, 0) on a grid, you move 7 squares right and 6 squares up. What are your final coordinates (x, y)?",
+    "options": [
+      "(7, 6)",
+      "(8, 6)",
+      "(7, 7)",
+      "(6, 7)"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Moving right increases x to 7; moving up increases y to 6 → (7, 6).",
+    "tags": [
+      "grid",
+      "coordinates"
+    ]
+  }
+]

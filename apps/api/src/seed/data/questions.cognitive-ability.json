@@ -1,0 +1,522 @@
+[
+  {
+    "seedId": "cognitive-ability-001",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "How many times does the letter \"i\" appear in the string \"eitnanease\"?",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Scanning \"eitnanease\" letter by letter, \"i\" appears 1 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-002",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "How many times does the letter \"e\" appear in the string \"eeeaenoo\"?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Scanning \"eeeaenoo\" letter by letter, \"e\" appears 4 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-003",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "How many times does the letter \"n\" appear in the string \"reatatisiana\"?",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Scanning \"reatatisiana\" letter by letter, \"n\" appears 1 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-004",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "How many times does the letter \"e\" appear in the string \"eeostarns\"?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Scanning \"eeostarns\" letter by letter, \"e\" appears 2 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-005",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "How many times does the letter \"n\" appear in the string \"otiassnrre\"?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Scanning \"otiassnrre\" letter by letter, \"n\" appears 1 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-006",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "How many times does the letter \"r\" appear in the string \"ttotsrsr\"?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Scanning \"ttotsrsr\" letter by letter, \"r\" appears 2 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-007",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "How many times does the letter \"s\" appear in the string \"otetnsratte\"?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Scanning \"otetnsratte\" letter by letter, \"s\" appears 1 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-008",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "How many times does the letter \"o\" appear in the string \"rtoeioan\"?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Scanning \"rtoeioan\" letter by letter, \"o\" appears 2 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-009",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "How many times does the letter \"r\" appear in the string \"tirantnrin\"?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Scanning \"tirantnrin\" letter by letter, \"r\" appears 2 time(s).",
+    "tags": [
+      "attention"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-010",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is the 5th digit (from the left) of the number 69374?",
+    "options": [
+      "1",
+      "8",
+      "5",
+      "4"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Counting from the left in 69374, the 5th digit is 4.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-011",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the 3rd digit (from the left) of the number 57355?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "9"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Counting from the left in 57355, the 3rd digit is 3.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-012",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the 2nd digit (from the left) of the number 53188?",
+    "options": [
+      "6",
+      "2",
+      "3",
+      "7"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Counting from the left in 53188, the 2nd digit is 3.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-013",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is the 4th digit (from the left) of the number 99539?",
+    "options": [
+      "6",
+      "2",
+      "3",
+      "8"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Counting from the left in 99539, the 4th digit is 3.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-014",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is the 2nd digit (from the left) of the number 72076?",
+    "options": [
+      "9",
+      "8",
+      "2",
+      "0"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Counting from the left in 72076, the 2nd digit is 2.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-015",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is the 4th digit (from the left) of the number 91935?",
+    "options": [
+      "3",
+      "9",
+      "6",
+      "0"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Counting from the left in 91935, the 4th digit is 3.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-016",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the 4th digit (from the left) of the number 13172?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Counting from the left in 13172, the 4th digit is 7.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-017",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the 4th digit (from the left) of the number 83527?",
+    "options": [
+      "6",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Counting from the left in 83527, the 4th digit is 2.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-018",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is the 5th digit (from the left) of the number 69383?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "3"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Counting from the left in 69383, the 5th digit is 3.",
+    "tags": [
+      "working-memory"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-019",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Start with 10. Add 2. Subtract 4. Double the result. What do you get?",
+    "options": [
+      "15",
+      "14",
+      "19",
+      "16"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "10 + 2 − 4 = 8; doubled gives 16.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-020",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Start with 15. Add 6. Subtract 9. Double the result. What do you get?",
+    "options": [
+      "32",
+      "24",
+      "22",
+      "26"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "15 + 6 − 9 = 12; doubled gives 24.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-021",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Start with 5. Add 7. Subtract 8. Double the result. What do you get?",
+    "options": [
+      "10",
+      "6",
+      "8",
+      "5"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "5 + 7 − 8 = 4; doubled gives 8.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-022",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Start with 11. Add 3. Subtract 7. Double the result. What do you get?",
+    "options": [
+      "14",
+      "18",
+      "17",
+      "13"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "11 + 3 − 7 = 7; doubled gives 14.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-023",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Start with 14. Add 4. Subtract 8. Double the result. What do you get?",
+    "options": [
+      "25",
+      "24",
+      "20",
+      "22"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "14 + 4 − 8 = 10; doubled gives 20.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-024",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Start with 7. Add 9. Subtract 6. Double the result. What do you get?",
+    "options": [
+      "25",
+      "18",
+      "20",
+      "14"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "7 + 9 − 6 = 10; doubled gives 20.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-025",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Start with 7. Add 9. Subtract 6. Double the result. What do you get?",
+    "options": [
+      "19",
+      "15",
+      "26",
+      "20"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "7 + 9 − 6 = 10; doubled gives 20.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  },
+  {
+    "seedId": "cognitive-ability-026",
+    "categoryKey": "cognitive-ability",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Start with 12. Add 2. Subtract 4. Double the result. What do you get?",
+    "options": [
+      "16",
+      "17",
+      "14",
+      "20"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "12 + 2 − 4 = 10; doubled gives 20.",
+    "tags": [
+      "mental-arithmetic"
+    ]
+  }
+]

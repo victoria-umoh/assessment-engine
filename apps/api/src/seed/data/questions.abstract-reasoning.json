@@ -1,0 +1,522 @@
+[
+  {
+    "seedId": "abstract-reasoning-001",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A pointer starts at 0° and rotates 135° clockwise at each step. After 4 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "190",
+      "183",
+      "180",
+      "172"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "135° × 4 = 540°, and 540 mod 360 = 180°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-002",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "A pointer starts at 0° and rotates 135° clockwise at each step. After 5 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "364",
+      "315",
+      "233",
+      "381"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "135° × 5 = 675°, and 675 mod 360 = 315°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-003",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "A pointer starts at 0° and rotates 135° clockwise at each step. After 4 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "192",
+      "179",
+      "180",
+      "148"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "135° × 4 = 540°, and 540 mod 360 = 180°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-004",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A pointer starts at 0° and rotates 135° clockwise at each step. After 3 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "42",
+      "32",
+      "45",
+      "53"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "135° × 3 = 405°, and 405 mod 360 = 45°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-005",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "A pointer starts at 0° and rotates 90° clockwise at each step. After 5 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "90",
+      "69",
+      "84",
+      "75"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "90° × 5 = 450°, and 450 mod 360 = 90°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-006",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A pointer starts at 0° and rotates 180° clockwise at each step. After 4 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "180° × 4 = 720°, and 720 mod 360 = 0°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-007",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "A pointer starts at 0° and rotates 45° clockwise at each step. After 5 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "291",
+      "206",
+      "225",
+      "166"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "45° × 5 = 225°, and 225 mod 360 = 225°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-008",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "A pointer starts at 0° and rotates 135° clockwise at each step. After 4 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "180",
+      "175",
+      "154",
+      "133"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "135° × 4 = 540°, and 540 mod 360 = 180°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-009",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A pointer starts at 0° and rotates 90° clockwise at each step. After 4 steps, what is its orientation in degrees (0–359)?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "1"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "90° × 4 = 360°, and 360 mod 360 = 0°.",
+    "tags": [
+      "rotation"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-010",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If ▲ = 7 and ● = 5, what is the value of ▲ + ● + ●?",
+    "options": [
+      "17",
+      "16",
+      "18",
+      "22"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "7 + 5 + 5 = 17.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-011",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If ■ = 2 and ◆ = 4, what is the value of ■ + ◆ + ◆?",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "10"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "2 + 4 + 4 = 10.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-012",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If ★ = 8 and ✚ = 5, what is the value of ★ + ✚ + ✚?",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "23"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "8 + 5 + 5 = 18.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-013",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If ▲ = 2 and ● = 8, what is the value of ▲ + ● + ●?",
+    "options": [
+      "13",
+      "18",
+      "20",
+      "12"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "2 + 8 + 8 = 18.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-014",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "If ■ = 4 and ◆ = 8, what is the value of ■ + ◆ + ◆?",
+    "options": [
+      "20",
+      "15",
+      "23",
+      "26"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "4 + 8 + 8 = 20.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-015",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If ★ = 7 and ✚ = 8, what is the value of ★ + ✚ + ✚?",
+    "options": [
+      "21",
+      "22",
+      "17",
+      "23"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "7 + 8 + 8 = 23.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-016",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If ▲ = 8 and ● = 2, what is the value of ▲ + ● + ●?",
+    "options": [
+      "14",
+      "16",
+      "8",
+      "12"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "8 + 2 + 2 = 12.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-017",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If ■ = 2 and ◆ = 2, what is the value of ■ + ◆ + ◆?",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "2 + 2 + 2 = 6.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-018",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If ★ = 5 and ✚ = 2, what is the value of ★ + ✚ + ✚?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "11"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "5 + 2 + 2 = 9.",
+    "tags": [
+      "symbols"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-019",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "12",
+      "2",
+      "5",
+      "38"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "5 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-020",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "10",
+      "8",
+      "18",
+      "5"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "5 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-021",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "24",
+      "6",
+      "37",
+      "8"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "37 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-022",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "33",
+      "36",
+      "32",
+      "18"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "33 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-023",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "34",
+      "40",
+      "6",
+      "35"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "35 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-024",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "36",
+      "28",
+      "12",
+      "27"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "27 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-025",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "18",
+      "21",
+      "24",
+      "20"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "21 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  },
+  {
+    "seedId": "abstract-reasoning-026",
+    "categoryKey": "abstract-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which number does not belong in this group?",
+    "options": [
+      "40",
+      "35",
+      "6",
+      "34"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "35 is the only odd number; the others are even.",
+    "tags": [
+      "odd-one-out"
+    ]
+  }
+]

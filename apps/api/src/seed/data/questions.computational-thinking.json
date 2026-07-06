@@ -1,0 +1,548 @@
+[
+  {
+    "seedId": "computational-thinking-001",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 7\nfor i = 1 to 7:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "35",
+      "44",
+      "36",
+      "39"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x accumulates 1+2+…+7 = 28, so x = 7 + 28 = 35.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-002",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nx = 3\nfor i = 1 to 5:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "19",
+      "18",
+      "17",
+      "23"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "x accumulates 1+2+…+5 = 15, so x = 3 + 15 = 18.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-003",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nx = 3\nfor i = 1 to 6:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "17",
+      "19",
+      "24",
+      "18"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x accumulates 1+2+…+6 = 21, so x = 3 + 21 = 24.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-004",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nfor i = 1 to 3:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "10"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x accumulates 1+2+…+3 = 6, so x = 1 + 6 = 7.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-005",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nx = 3\nfor i = 1 to 7:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "25",
+      "34",
+      "31",
+      "28"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x accumulates 1+2+…+7 = 28, so x = 3 + 28 = 31.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-006",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 6\nfor i = 1 to 7:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "34",
+      "31",
+      "23",
+      "41"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x accumulates 1+2+…+7 = 28, so x = 6 + 28 = 34.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-007",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nx = 3\nfor i = 1 to 3:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "9",
+      "7",
+      "11",
+      "6"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x accumulates 1+2+…+3 = 6, so x = 3 + 6 = 9.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-008",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nx = 8\nfor i = 1 to 4:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "18",
+      "13",
+      "21",
+      "14"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x accumulates 1+2+…+4 = 10, so x = 8 + 10 = 18.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-009",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nx = 7\nfor i = 1 to 6:\n    x = x + i\n\nWhat is the final value of x?",
+    "options": [
+      "29",
+      "36",
+      "20",
+      "28"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "x accumulates 1+2+…+6 = 21, so x = 7 + 21 = 28.",
+    "tags": [
+      "pseudocode",
+      "loop-trace"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-010",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 4 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "15",
+      "11",
+      "16",
+      "20"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x doubles 4 times: 2^4 = 16.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-011",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 8 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "296",
+      "251",
+      "222",
+      "256"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "x doubles 8 times: 2^8 = 256.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-012",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 5 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "32",
+      "25",
+      "23",
+      "39"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x doubles 5 times: 2^5 = 32.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-013",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 5 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "32",
+      "37",
+      "30",
+      "36"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x doubles 5 times: 2^5 = 32.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-014",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 7 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "167",
+      "104",
+      "128",
+      "141"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x doubles 7 times: 2^7 = 128.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-015",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 4 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "x doubles 4 times: 2^4 = 16.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-016",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 6 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "64",
+      "78",
+      "67",
+      "69"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "x doubles 6 times: 2^6 = 64.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-017",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 7 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "156",
+      "152",
+      "128",
+      "132"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "x doubles 7 times: 2^7 = 128.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-018",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nx = 1\nrepeat 8 times:\n    x = x * 2\n\nWhat is the final value of x?",
+    "options": [
+      "322",
+      "290",
+      "191",
+      "256"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "x doubles 8 times: 2^8 = 256.",
+    "tags": [
+      "pseudocode",
+      "doubling"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-019",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nr = 68 mod 8\n\nWhat is the value of r (the remainder when 68 is divided by 8)?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "68 = 8 × 8 + 4, so the remainder is 4.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-020",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nr = 75 mod 3\n\nWhat is the value of r (the remainder when 75 is divided by 3)?",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "75 = 25 × 3 + 0, so the remainder is 0.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-021",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nr = 40 mod 3\n\nWhat is the value of r (the remainder when 40 is divided by 3)?",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "40 = 13 × 3 + 1, so the remainder is 1.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-022",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Trace this pseudocode:\n\nr = 13 mod 9\n\nWhat is the value of r (the remainder when 13 is divided by 9)?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "13 = 1 × 9 + 4, so the remainder is 4.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-023",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Trace this pseudocode:\n\nr = 68 mod 5\n\nWhat is the value of r (the remainder when 68 is divided by 5)?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "1"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "68 = 13 × 5 + 3, so the remainder is 3.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-024",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Trace this pseudocode:\n\nr = 50 mod 9\n\nWhat is the value of r (the remainder when 50 is divided by 9)?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "7"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "50 = 5 × 9 + 5, so the remainder is 5.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-025",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Trace this pseudocode:\n\nr = 91 mod 5\n\nWhat is the value of r (the remainder when 91 is divided by 5)?",
+    "options": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "91 = 18 × 5 + 1, so the remainder is 1.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  },
+  {
+    "seedId": "computational-thinking-026",
+    "categoryKey": "computational-thinking",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Trace this pseudocode:\n\nr = 52 mod 9\n\nWhat is the value of r (the remainder when 52 is divided by 9)?",
+    "options": [
+      "9",
+      "10",
+      "4",
+      "7"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "52 = 5 × 9 + 7, so the remainder is 7.",
+    "tags": [
+      "pseudocode",
+      "modulo"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+# Dependencies & builds (for upcoming app code)
+node_modules/
+.next/
+dist/
+coverage/
+.turbo/
+
+# Env & OS
+.env
+.env.*
+!.env.example
+.DS_Store
+var/
+backups/
+.gstack/
+
+# Playwright e2e runtime artifacts
+apps/e2e/.pids.json
+apps/e2e/.fixtures.json
+apps/e2e/.*.log
+apps/e2e/test-results/
+apps/e2e/playwright-report/

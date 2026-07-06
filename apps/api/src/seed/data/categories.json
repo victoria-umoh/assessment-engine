@@ -1,0 +1,14 @@
+[
+  { "key": "logical-reasoning", "name": "Logical Reasoning", "description": "Deductive and inductive reasoning: syllogisms, ordering, truth-teller puzzles.", "scoringMode": "correctness" },
+  { "key": "verbal-reasoning", "name": "Verbal Reasoning", "description": "Language comprehension: analogies, synonyms/antonyms, passage inference.", "scoringMode": "correctness" },
+  { "key": "numerical-reasoning", "name": "Numerical Reasoning", "description": "Arithmetic, number series, percentages, and word problems.", "scoringMode": "correctness" },
+  { "key": "abstract-reasoning", "name": "Abstract Reasoning", "description": "Non-verbal rule discovery over shapes and symbol sequences.", "scoringMode": "correctness" },
+  { "key": "spatial-reasoning", "name": "Spatial Reasoning", "description": "Mental rotation, mirroring, and figure assembly.", "scoringMode": "correctness" },
+  { "key": "pattern-recognition", "name": "Pattern Recognition", "description": "Identifying regularities in sequences, matrices, and groupings.", "scoringMode": "correctness" },
+  { "key": "qualitative-reasoning", "name": "Qualitative Reasoning", "description": "Reasoning about relationships, causation, and categorical claims without exact numbers.", "scoringMode": "correctness" },
+  { "key": "quantitative-reasoning", "name": "Quantitative Reasoning", "description": "Data sufficiency, ratios, rates, and quantitative comparisons.", "scoringMode": "correctness" },
+  { "key": "computational-thinking", "name": "Computational Thinking", "description": "Pseudocode tracing, algorithmic steps, and complexity intuition.", "scoringMode": "correctness" },
+  { "key": "aptitude", "name": "General Aptitude", "description": "Mixed general-ability items spanning several reasoning families.", "scoringMode": "correctness" },
+  { "key": "cognitive-ability", "name": "Cognitive Ability", "description": "Working memory, attention to detail, and processing-speed style items.", "scoringMode": "correctness" },
+  { "key": "personality", "name": "Personality & Psychometrics", "description": "Likert-scale self-report items mapped to Big Five trait dimensions.", "scoringMode": "profile", "traitDimensions": ["openness", "conscientiousness", "extraversion", "agreeableness", "emotional-stability"] }
+]

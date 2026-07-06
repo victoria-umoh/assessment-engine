@@ -1,0 +1,522 @@
+[
+  {
+    "seedId": "numerical-reasoning-001",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the next number in the series: 12, 18, 24, 30, ... ?",
+    "options": [
+      "40",
+      "41",
+      "36",
+      "34"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each term increases by 6, so the next term is 30 + 6 = 36.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-002",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the next number in the series: 2, 8, 14, 20, ... ?",
+    "options": [
+      "25",
+      "27",
+      "22",
+      "26"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 6, so the next term is 20 + 6 = 26.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-003",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is the next number in the series: 10, 16, 22, 28, ... ?",
+    "options": [
+      "29",
+      "40",
+      "34",
+      "45"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each term increases by 6, so the next term is 28 + 6 = 34.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-004",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is the next number in the series: 13, 17, 21, 25, ... ?",
+    "options": [
+      "38",
+      "20",
+      "22",
+      "29"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 4, so the next term is 25 + 4 = 29.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-005",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is the next number in the series: 11, 16, 21, 26, ... ?",
+    "options": [
+      "31",
+      "34",
+      "29",
+      "41"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Each term increases by 5, so the next term is 26 + 5 = 31.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-006",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is the next number in the series: 8, 17, 26, 35, ... ?",
+    "options": [
+      "54",
+      "56",
+      "44",
+      "51"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each term increases by 9, so the next term is 35 + 9 = 44.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-007",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is the next number in the series: 8, 10, 12, 14, ... ?",
+    "options": [
+      "20",
+      "15",
+      "11",
+      "16"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 2, so the next term is 14 + 2 = 16.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-008",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is the next number in the series: 2, 6, 10, 14, ... ?",
+    "options": [
+      "21",
+      "17",
+      "19",
+      "18"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 4, so the next term is 14 + 4 = 18.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-009",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is the next number in the series: 4, 9, 14, 19, ... ?",
+    "options": [
+      "25",
+      "23",
+      "30",
+      "24"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each term increases by 5, so the next term is 19 + 5 = 24.",
+    "tags": [
+      "series"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-010",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is 10% of 360?",
+    "options": [
+      "36",
+      "46",
+      "38",
+      "43"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "10% of 360 = 360 × 10/100 = 36.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-011",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is 5% of 200?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "13"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "5% of 200 = 200 × 5/100 = 10.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-012",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is 10% of 80?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "11"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "10% of 80 = 80 × 10/100 = 8.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-013",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is 10% of 300?",
+    "options": [
+      "33",
+      "34",
+      "30",
+      "28"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "10% of 300 = 300 × 10/100 = 30.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-014",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "What is 10% of 60?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "10% of 60 = 60 × 10/100 = 6.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-015",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "What is 50% of 520?",
+    "options": [
+      "318",
+      "260",
+      "229",
+      "238"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "50% of 520 = 520 × 50/100 = 260.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-016",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "What is 10% of 160?",
+    "options": [
+      "13",
+      "17",
+      "16",
+      "12"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "10% of 160 = 160 × 10/100 = 16.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-017",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "What is 20% of 300?",
+    "options": [
+      "60",
+      "45",
+      "72",
+      "53"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "20% of 300 = 300 × 20/100 = 60.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-018",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "What is 15% of 40?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "15% of 40 = 40 × 15/100 = 6.",
+    "tags": [
+      "percentage"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-019",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A recipe uses 4 cups of flour for every 6 cups of sugar. If you use 16 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "20",
+      "21",
+      "24",
+      "27"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The flour is scaled by 4 (4 → 16), so the sugar scales to 6 × 4 = 24.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-020",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "A recipe uses 3 cups of flour for every 4 cups of sugar. If you use 15 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "20",
+      "14",
+      "25",
+      "23"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The flour is scaled by 5 (3 → 15), so the sugar scales to 4 × 5 = 20.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-021",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A recipe uses 2 cups of flour for every 3 cups of sugar. If you use 4 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "4",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The flour is scaled by 2 (2 → 4), so the sugar scales to 3 × 2 = 6.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-022",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "A recipe uses 3 cups of flour for every 8 cups of sugar. If you use 18 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "61",
+      "48",
+      "56",
+      "60"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "The flour is scaled by 6 (3 → 18), so the sugar scales to 8 × 6 = 48.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-023",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "A recipe uses 1 cups of flour for every 3 cups of sugar. If you use 2 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "The flour is scaled by 2 (1 → 2), so the sugar scales to 3 × 2 = 6.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-024",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A recipe uses 3 cups of flour for every 5 cups of sugar. If you use 6 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "7"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The flour is scaled by 2 (3 → 6), so the sugar scales to 5 × 2 = 10.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-025",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "A recipe uses 4 cups of flour for every 8 cups of sugar. If you use 12 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "24",
+      "29",
+      "18",
+      "31"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "The flour is scaled by 3 (4 → 12), so the sugar scales to 8 × 3 = 24.",
+    "tags": [
+      "ratio"
+    ]
+  },
+  {
+    "seedId": "numerical-reasoning-026",
+    "categoryKey": "numerical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A recipe uses 1 cups of flour for every 3 cups of sugar. If you use 2 cups of flour, how many cups of sugar do you need?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "The flour is scaled by 2 (1 → 2), so the sugar scales to 3 × 2 = 6.",
+    "tags": [
+      "ratio"
+    ]
+  }
+]

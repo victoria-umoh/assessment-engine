@@ -1,0 +1,552 @@
+[
+  {
+    "seedId": "personality-001",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I enjoy exploring new ideas and unfamiliar concepts.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "openness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "openness"
+    ]
+  },
+  {
+    "seedId": "personality-002",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I often seek out art, music, or writing that challenges me.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "openness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "openness"
+    ]
+  },
+  {
+    "seedId": "personality-003",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I like experimenting with new ways of doing things.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "openness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "openness"
+    ]
+  },
+  {
+    "seedId": "personality-004",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I prefer sticking to familiar routines rather than trying new approaches.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "openness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "openness"
+    ]
+  },
+  {
+    "seedId": "personality-005",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I find abstract or theoretical discussions tiresome.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "openness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "openness"
+    ]
+  },
+  {
+    "seedId": "personality-006",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I plan my work carefully before starting.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "conscientiousness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "conscientiousness"
+    ]
+  },
+  {
+    "seedId": "personality-007",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I follow through on the commitments I make.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "conscientiousness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "conscientiousness"
+    ]
+  },
+  {
+    "seedId": "personality-008",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I keep my workspace and files well organized.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "conscientiousness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "conscientiousness"
+    ]
+  },
+  {
+    "seedId": "personality-009",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I often leave tasks unfinished.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "conscientiousness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "conscientiousness"
+    ]
+  },
+  {
+    "seedId": "personality-010",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I tend to put off difficult work until the last minute.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "conscientiousness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "conscientiousness"
+    ]
+  },
+  {
+    "seedId": "personality-011",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I feel energized after spending time with a group of people.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "extraversion",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "extraversion"
+    ]
+  },
+  {
+    "seedId": "personality-012",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I am usually the one who starts conversations.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "extraversion",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "extraversion"
+    ]
+  },
+  {
+    "seedId": "personality-013",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I enjoy being the center of attention at social events.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "extraversion",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "extraversion"
+    ]
+  },
+  {
+    "seedId": "personality-014",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I prefer working alone rather than in a team setting.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "extraversion",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "extraversion"
+    ]
+  },
+  {
+    "seedId": "personality-015",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "Large social gatherings drain my energy.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "extraversion",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "extraversion"
+    ]
+  },
+  {
+    "seedId": "personality-016",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I go out of my way to make others feel comfortable.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "agreeableness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "agreeableness"
+    ]
+  },
+  {
+    "seedId": "personality-017",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I find it easy to forgive people who have wronged me.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "agreeableness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "agreeableness"
+    ]
+  },
+  {
+    "seedId": "personality-018",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I genuinely enjoy helping colleagues with their problems.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "agreeableness",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "agreeableness"
+    ]
+  },
+  {
+    "seedId": "personality-019",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I tend to be critical of other people's shortcomings.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "agreeableness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "agreeableness"
+    ]
+  },
+  {
+    "seedId": "personality-020",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I put my own interests ahead of others' needs.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "agreeableness",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "agreeableness"
+    ]
+  },
+  {
+    "seedId": "personality-021",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I stay calm under pressure.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "emotional-stability",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "emotional-stability"
+    ]
+  },
+  {
+    "seedId": "personality-022",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I recover quickly after setbacks.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "emotional-stability",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "emotional-stability"
+    ]
+  },
+  {
+    "seedId": "personality-023",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "I rarely worry about things beyond my control.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "emotional-stability",
+      "direction": 1
+    },
+    "tags": [
+      "big-five",
+      "emotional-stability"
+    ]
+  },
+  {
+    "seedId": "personality-024",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "Small problems can easily make me anxious.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "emotional-stability",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "emotional-stability"
+    ]
+  },
+  {
+    "seedId": "personality-025",
+    "categoryKey": "personality",
+    "type": "likert",
+    "difficulty": 3,
+    "prompt": "My mood changes quickly when things go wrong.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "traitMapping": {
+      "dimension": "emotional-stability",
+      "direction": -1
+    },
+    "tags": [
+      "big-five",
+      "emotional-stability"
+    ]
+  }
+]

@@ -1,0 +1,539 @@
+[
+  {
+    "seedId": "quantitative-reasoning-001",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A machine produces 7 items per hour. How many items does it produce in 9 hours?",
+    "options": [
+      "50",
+      "63",
+      "68",
+      "76"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "7 items/hour × 9 hours = 63 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-002",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "A machine produces 11 items per hour. How many items does it produce in 7 hours?",
+    "options": [
+      "77",
+      "96",
+      "68",
+      "93"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "11 items/hour × 7 hours = 77 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-003",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "A machine produces 10 items per hour. How many items does it produce in 8 hours?",
+    "options": [
+      "80",
+      "65",
+      "57",
+      "96"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "10 items/hour × 8 hours = 80 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-004",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A machine produces 12 items per hour. How many items does it produce in 3 hours?",
+    "options": [
+      "44",
+      "37",
+      "36",
+      "47"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "12 items/hour × 3 hours = 36 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-005",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "A machine produces 10 items per hour. How many items does it produce in 5 hours?",
+    "options": [
+      "65",
+      "50",
+      "45",
+      "43"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "10 items/hour × 5 hours = 50 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-006",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "A machine produces 9 items per hour. How many items does it produce in 4 hours?",
+    "options": [
+      "31",
+      "36",
+      "47",
+      "30"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "9 items/hour × 4 hours = 36 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-007",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "A machine produces 6 items per hour. How many items does it produce in 4 hours?",
+    "options": [
+      "25",
+      "18",
+      "17",
+      "24"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "6 items/hour × 4 hours = 24 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-008",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "A machine produces 7 items per hour. How many items does it produce in 8 hours?",
+    "options": [
+      "61",
+      "62",
+      "56",
+      "73"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "7 items/hour × 8 hours = 56 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-009",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "A machine produces 7 items per hour. How many items does it produce in 9 hours?",
+    "options": [
+      "81",
+      "65",
+      "63",
+      "46"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "7 items/hour × 9 hours = 63 items.",
+    "tags": [
+      "rate"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-010",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "5/10",
+      "5/8",
+      "4/10",
+      "2/6"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "5/8 ≈ 0.625, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-011",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "4/12",
+      "1/10",
+      "1/12",
+      "9/11"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "9/11 ≈ 0.818, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-012",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "4/7",
+      "2/5",
+      "2/12",
+      "5/11"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "4/7 ≈ 0.571, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-013",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "7/8",
+      "4/5",
+      "5/11",
+      "8/11"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "7/8 ≈ 0.875, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-014",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "2/4",
+      "9/11",
+      "3/4",
+      "3/11"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "9/11 ≈ 0.818, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-015",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "9/11",
+      "2/10",
+      "2/7",
+      "3/8"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "9/11 ≈ 0.818, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-016",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "7/12",
+      "8/10",
+      "4/11",
+      "6/8"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "8/10 ≈ 0.800, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-017",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "3/4",
+      "8/10",
+      "2/11",
+      "2/3"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "8/10 ≈ 0.800, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-018",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which of these fractions is the largest?",
+    "options": [
+      "1/5",
+      "8/11",
+      "9/11",
+      "1/4"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "9/11 ≈ 0.818, greater than each alternative.",
+    "tags": [
+      "fractions",
+      "comparison"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-019",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "If 9 pens cost $36, how much do 9 pens cost (in dollars)?",
+    "options": [
+      "32",
+      "42",
+      "36",
+      "47"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each pen costs $36 ÷ 9 = $4, so 9 pens cost $36.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-020",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If 9 pens cost $54, how much do 6 pens cost (in dollars)?",
+    "options": [
+      "39",
+      "44",
+      "36",
+      "25"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each pen costs $54 ÷ 9 = $6, so 6 pens cost $36.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-021",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If 7 pens cost $21, how much do 7 pens cost (in dollars)?",
+    "options": [
+      "24",
+      "25",
+      "28",
+      "21"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each pen costs $21 ÷ 7 = $3, so 7 pens cost $21.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-022",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If 4 pens cost $12, how much do 4 pens cost (in dollars)?",
+    "options": [
+      "14",
+      "9",
+      "15",
+      "12"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each pen costs $12 ÷ 4 = $3, so 4 pens cost $12.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-023",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If 3 pens cost $9, how much do 8 pens cost (in dollars)?",
+    "options": [
+      "22",
+      "24",
+      "25",
+      "23"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Each pen costs $9 ÷ 3 = $3, so 8 pens cost $24.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-024",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "If 8 pens cost $16, how much do 6 pens cost (in dollars)?",
+    "options": [
+      "11",
+      "15",
+      "12",
+      "13"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Each pen costs $16 ÷ 8 = $2, so 6 pens cost $12.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-025",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If 9 pens cost $36, how much do 9 pens cost (in dollars)?",
+    "options": [
+      "41",
+      "44",
+      "29",
+      "36"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Each pen costs $36 ÷ 9 = $4, so 9 pens cost $36.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  },
+  {
+    "seedId": "quantitative-reasoning-026",
+    "categoryKey": "quantitative-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If 7 pens cost $35, how much do 2 pens cost (in dollars)?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "13"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Each pen costs $35 ÷ 7 = $5, so 2 pens cost $10.",
+    "tags": [
+      "unit-price",
+      "proportion"
+    ]
+  }
+]

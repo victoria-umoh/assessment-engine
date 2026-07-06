@@ -1,0 +1,528 @@
+[
+  {
+    "seedId": "logical-reasoning-001",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "All bloops are razzies. All razzies are lazzies. Which statement must be true?",
+    "options": [
+      "Some razzies are not bloops",
+      "All bloops are lazzies",
+      "All lazzies are bloops",
+      "No bloops are lazzies"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Two universal statements chain: all bloops are razzies, and all razzies are lazzies, so all bloops are lazzies.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-002",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "All florps are mimsies. All mimsies are tazzles. Which statement must be true?",
+    "options": [
+      "No florps are tazzles",
+      "All tazzles are florps",
+      "Some mimsies are not florps",
+      "All florps are tazzles"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Two universal statements chain: all florps are mimsies, and all mimsies are tazzles, so all florps are tazzles.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-003",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "All greeps are snorfs. All snorfs are quibbles. Which statement must be true?",
+    "options": [
+      "All greeps are quibbles",
+      "All quibbles are greeps",
+      "No greeps are quibbles",
+      "Some snorfs are not greeps"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Two universal statements chain: all greeps are snorfs, and all snorfs are quibbles, so all greeps are quibbles.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-004",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "All zinters are plooks. All plooks are vantles. Which statement must be true?",
+    "options": [
+      "All zinters are vantles",
+      "No zinters are vantles",
+      "All vantles are zinters",
+      "Some plooks are not zinters"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Two universal statements chain: all zinters are plooks, and all plooks are vantles, so all zinters are vantles.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-005",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "All crullets are dromps. All dromps are febbles. Which statement must be true?",
+    "options": [
+      "Some dromps are not crullets",
+      "All crullets are febbles",
+      "No crullets are febbles",
+      "All febbles are crullets"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Two universal statements chain: all crullets are dromps, and all dromps are febbles, so all crullets are febbles.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-006",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "All harkles are jibbits. All jibbits are kloons. Which statement must be true?",
+    "options": [
+      "Some jibbits are not harkles",
+      "No harkles are kloons",
+      "All harkles are kloons",
+      "All kloons are harkles"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Two universal statements chain: all harkles are jibbits, and all jibbits are kloons, so all harkles are kloons.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-007",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "All morfits are nubbles. All nubbles are oppets. Which statement must be true?",
+    "options": [
+      "Some nubbles are not morfits",
+      "All morfits are oppets",
+      "All oppets are morfits",
+      "No morfits are oppets"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Two universal statements chain: all morfits are nubbles, and all nubbles are oppets, so all morfits are oppets.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-008",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "All pramble are quaffles. All quaffles are rimplets. Which statement must be true?",
+    "options": [
+      "All rimplets are pramble",
+      "All pramble are rimplets",
+      "No pramble are rimplets",
+      "Some quaffles are not pramble"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Two universal statements chain: all pramble are quaffles, and all quaffles are rimplets, so all pramble are rimplets.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-009",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "All sploots are trundles. All trundles are umpets. Which statement must be true?",
+    "options": [
+      "All umpets are sploots",
+      "No sploots are umpets",
+      "All sploots are umpets",
+      "Some trundles are not sploots"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Two universal statements chain: all sploots are trundles, and all trundles are umpets, so all sploots are umpets.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-010",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "All wexels are yarbles. All yarbles are zoodles. Which statement must be true?",
+    "options": [
+      "Some yarbles are not wexels",
+      "All zoodles are wexels",
+      "All wexels are zoodles",
+      "No wexels are zoodles"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Two universal statements chain: all wexels are yarbles, and all yarbles are zoodles, so all wexels are zoodles.",
+    "tags": [
+      "syllogism"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-011",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Jomo is faster than Femi. Femi is faster than Ada. Who is the slowest?",
+    "options": [
+      "Jomo",
+      "Ada",
+      "Cannot be determined",
+      "Femi"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Jomo > Femi > Ada, so Ada is the slowest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-012",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Halima is faster than Emeka. Emeka is faster than Chidi. Who is the slowest?",
+    "options": [
+      "Halima",
+      "Chidi",
+      "Emeka",
+      "Cannot be determined"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Halima > Emeka > Chidi, so Chidi is the slowest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-013",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Femi is taller than Ivan. Ivan is taller than Jomo. Who is the tallest?",
+    "options": [
+      "Femi",
+      "Cannot be determined",
+      "Ivan",
+      "Jomo"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Chaining the comparisons: Femi > Ivan > Jomo, so Femi is the tallest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-014",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Dara is older than Emeka. Emeka is older than Halima. Who is the oldest?",
+    "options": [
+      "Halima",
+      "Dara",
+      "Cannot be determined",
+      "Emeka"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Dara > Emeka > Halima, so Dara is the oldest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-015",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Bruno is older than Gina. Gina is older than Ada. Who is the youngest?",
+    "options": [
+      "Cannot be determined",
+      "Bruno",
+      "Gina",
+      "Ada"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Chaining the comparisons: Bruno > Gina > Ada, so Ada is the youngest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-016",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Emeka is faster than Ada. Ada is faster than Dara. Who is the fastest?",
+    "options": [
+      "Ada",
+      "Cannot be determined",
+      "Emeka",
+      "Dara"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Chaining the comparisons: Emeka > Ada > Dara, so Emeka is the fastest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-017",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Ada is faster than Jomo. Jomo is faster than Bruno. Who is the slowest?",
+    "options": [
+      "Jomo",
+      "Bruno",
+      "Ada",
+      "Cannot be determined"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Ada > Jomo > Bruno, so Bruno is the slowest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-018",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Bruno is taller than Emeka. Emeka is taller than Halima. Who is the shortest?",
+    "options": [
+      "Emeka",
+      "Cannot be determined",
+      "Bruno",
+      "Halima"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Chaining the comparisons: Bruno > Emeka > Halima, so Halima is the shortest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-019",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Bruno is taller than Halima. Halima is taller than Femi. Who is the tallest?",
+    "options": [
+      "Halima",
+      "Cannot be determined",
+      "Femi",
+      "Bruno"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Chaining the comparisons: Bruno > Halima > Femi, so Bruno is the tallest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-020",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Dara is older than Femi. Femi is older than Gina. Who is the oldest?",
+    "options": [
+      "Gina",
+      "Dara",
+      "Cannot be determined",
+      "Femi"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Chaining the comparisons: Dara > Femi > Gina, so Dara is the oldest.",
+    "tags": [
+      "ordering"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-021",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If it rains, then the ground gets wet. It is NOT the case that the ground gets wet. What must be true?",
+    "options": [
+      "Nothing can be concluded",
+      "It is not the case that it rains",
+      "It is the case that the ground gets wet",
+      "It is the case that it rains"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-022",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "If the alarm rings, then everyone leaves the building. It is NOT the case that everyone leaves the building. What must be true?",
+    "options": [
+      "It is the case that everyone leaves the building",
+      "It is not the case that the alarm rings",
+      "It is the case that the alarm rings",
+      "Nothing can be concluded"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-023",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "If the switch is on, then the lamp is lit. It is NOT the case that the lamp is lit. What must be true?",
+    "options": [
+      "It is not the case that the switch is on",
+      "Nothing can be concluded",
+      "It is the case that the lamp is lit",
+      "It is the case that the switch is on"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-024",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "If the store is open, then the sign says OPEN. It is NOT the case that the sign says OPEN. What must be true?",
+    "options": [
+      "It is not the case that the store is open",
+      "Nothing can be concluded",
+      "It is the case that the sign says OPEN",
+      "It is the case that the store is open"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-025",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "If the battery is charged, then the phone turns on. It is NOT the case that the phone turns on. What must be true?",
+    "options": [
+      "It is the case that the phone turns on",
+      "It is not the case that the battery is charged",
+      "It is the case that the battery is charged",
+      "Nothing can be concluded"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  },
+  {
+    "seedId": "logical-reasoning-026",
+    "categoryKey": "logical-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "If the bridge is closed, then traffic is diverted. It is NOT the case that traffic is diverted. What must be true?",
+    "options": [
+      "It is the case that the bridge is closed",
+      "It is not the case that the bridge is closed",
+      "Nothing can be concluded",
+      "It is the case that traffic is diverted"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Modus tollens: when the consequence is false, the condition must be false.",
+    "tags": [
+      "conditional",
+      "modus-tollens"
+    ]
+  }
+]

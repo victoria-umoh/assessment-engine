@@ -1,0 +1,15 @@
+{
+  "name": "e2e",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "bootstrap": "tsx bootstrap-check.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "mongodb": "^6.17.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "seedId": "verbal-reasoning-001",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Hot is to Cold as Up is to ... ?",
+    "options": [
+      "Over",
+      "Down",
+      "Sky",
+      "Rise"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Hot relates to Cold the same way Up relates to Down.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-002",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Kitten is to Cat as Puppy is to ... ?",
+    "options": [
+      "Dog",
+      "Bone",
+      "Wolf",
+      "Kennel"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Kitten relates to Cat the same way Puppy relates to Dog.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-003",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Author is to Book as Composer is to ... ?",
+    "options": [
+      "Orchestra",
+      "Piano",
+      "Baton",
+      "Symphony"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Author relates to Book the same way Composer relates to Symphony.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-004",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Fish is to Water as Bird is to ... ?",
+    "options": [
+      "Air",
+      "Feather",
+      "Worm",
+      "Nest"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Fish relates to Water the same way Bird relates to Air.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-005",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Head is to Hat as Foot is to ... ?",
+    "options": [
+      "Walk",
+      "Floor",
+      "Shoe",
+      "Ankle"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Head relates to Hat the same way Foot relates to Shoe.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-006",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Doctor is to Hospital as Teacher is to ... ?",
+    "options": [
+      "School",
+      "Book",
+      "Lesson",
+      "Student"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Doctor relates to Hospital the same way Teacher relates to School.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-007",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Bee is to Hive as Bear is to ... ?",
+    "options": [
+      "Zoo",
+      "Honey",
+      "Cub",
+      "Den"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Bee relates to Hive the same way Bear relates to Den.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-008",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Pen is to Write as Knife is to ... ?",
+    "options": [
+      "Sharpen",
+      "Fork",
+      "Cut",
+      "Steel"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "Pen relates to Write the same way Knife relates to Cut.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-009",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Caterpillar is to Butterfly as Tadpole is to ... ?",
+    "options": [
+      "Pond",
+      "Frog",
+      "Snail",
+      "Fish"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Caterpillar relates to Butterfly the same way Tadpole relates to Frog.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-010",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Second is to Minute as Minute is to ... ?",
+    "options": [
+      "Time",
+      "Clock",
+      "Day",
+      "Hour"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Second relates to Minute the same way Minute relates to Hour.",
+    "tags": [
+      "analogy"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-011",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which word is closest in meaning to \"happy\"?",
+    "options": [
+      "joyful",
+      "gloomy",
+      "careful",
+      "tired"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "\"joyful\" is a synonym of \"happy\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-012",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which word is closest in meaning to \"big\"?",
+    "options": [
+      "heavy",
+      "enormous",
+      "tiny",
+      "narrow"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "\"enormous\" is a synonym of \"big\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-013",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which word is closest in meaning to \"fast\"?",
+    "options": [
+      "calm",
+      "rapid",
+      "late",
+      "slow"
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "\"rapid\" is a synonym of \"fast\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-014",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which word is closest in meaning to \"brave\"?",
+    "options": [
+      "weak",
+      "cautious",
+      "timid",
+      "courageous"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "\"courageous\" is a synonym of \"brave\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-015",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which word is closest in meaning to \"smart\"?",
+    "options": [
+      "dull",
+      "lazy",
+      "intelligent",
+      "loud"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "\"intelligent\" is a synonym of \"smart\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-016",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which word is closest in meaning to \"quiet\"?",
+    "options": [
+      "busy",
+      "bright",
+      "noisy",
+      "silent"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "\"silent\" is a synonym of \"quiet\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-017",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which word is closest in meaning to \"angry\"?",
+    "options": [
+      "calm",
+      "pleased",
+      "furious",
+      "patient"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "\"furious\" is a synonym of \"angry\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-018",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which word is closest in meaning to \"tired\"?",
+    "options": [
+      "rested",
+      "alert",
+      "eager",
+      "weary"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "\"weary\" is a synonym of \"tired\".",
+    "tags": [
+      "synonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-019",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which word is most nearly the OPPOSITE of \"expand\"?",
+    "options": [
+      "grow",
+      "widen",
+      "contract",
+      "stretch"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "\"contract\" is an antonym of \"expand\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-020",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which word is most nearly the OPPOSITE of \"victory\"?",
+    "options": [
+      "defeat",
+      "win",
+      "triumph",
+      "success"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "\"defeat\" is an antonym of \"victory\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-021",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which word is most nearly the OPPOSITE of \"scarce\"?",
+    "options": [
+      "sparse",
+      "limited",
+      "abundant",
+      "rare"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "\"abundant\" is an antonym of \"scarce\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-022",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 2,
+    "prompt": "Which word is most nearly the OPPOSITE of \"ancient\"?",
+    "options": [
+      "modern",
+      "antique",
+      "old",
+      "historic"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "\"modern\" is an antonym of \"ancient\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-023",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 3,
+    "prompt": "Which word is most nearly the OPPOSITE of \"increase\"?",
+    "options": [
+      "multiply",
+      "rise",
+      "decrease",
+      "expand"
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "\"decrease\" is an antonym of \"increase\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-024",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 4,
+    "prompt": "Which word is most nearly the OPPOSITE of \"transparent\"?",
+    "options": [
+      "visible",
+      "glassy",
+      "clear",
+      "opaque"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "\"opaque\" is an antonym of \"transparent\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-025",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 5,
+    "prompt": "Which word is most nearly the OPPOSITE of \"generous\"?",
+    "options": [
+      "stingy",
+      "charitable",
+      "kind",
+      "giving"
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "\"stingy\" is an antonym of \"generous\".",
+    "tags": [
+      "antonym"
+    ]
+  },
+  {
+    "seedId": "verbal-reasoning-026",
+    "categoryKey": "verbal-reasoning",
+    "type": "mcq",
+    "difficulty": 1,
+    "prompt": "Which word is most nearly the OPPOSITE of \"accept\"?",
+    "options": [
+      "approve",
+      "welcome",
+      "receive",
+      "reject"
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "\"reject\" is an antonym of \"accept\".",
+    "tags": [
+      "antonym"
+    ]
+  }
+]
