@@ -79,7 +79,7 @@ services:
     command: ["node", "dist/worker.main.js"]
     environment:
       MONGO_URI: mongodb://mongo:27017/lms
-      REDIS_URL: redis://redis:6379
+      REDIS_URL: redis://redis:6380
       JUDGE0_URL: http://judge0:2358
       JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET:?set JWT_ACCESS_SECRET}
       JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET:?set JWT_REFRESH_SECRET}
